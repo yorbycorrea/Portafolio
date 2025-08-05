@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import 'aos/dist/aos.css';
+
+
+@layer base {
+  body {
+    font-family: 'Ubuntu', sans-serif, system-ui;
+    font-weight: 400;
+  }
+}
